@@ -51,7 +51,7 @@ English (C2 – Fluent) | German (A2 – Beginner) | Urdu (Native)
 
 **National Center of Robotics and Automation, Islamabad, Pakistan**  
 *Project Engineer Internship | Aug 2020 – Jul 2021*  
-- Developed a semi-automated olive pitting machine achieving 98% efficiency.  
+- Developed a semi-automated olive pitting machine, achieving 98% efficiency.  
 - Applied Lean Six Sigma to optimize workflows and production processes.  
 
 ---
@@ -61,14 +61,13 @@ English (C2 – Fluent) | German (A2 – Beginner) | Urdu (Native)
 **M.Eng. Artificial Intelligence for Smart Sensors & Actuators**  
 Technische Hochschule Deggendorf, Germany | 2023 – 2025  
 - Core Subjects: Advanced Robotics, Autonomous Systems, ML & Deep Learning, NLP, Computer Vision  
-- Thesis: Neural Network-based Controller for Induction Motors (Grade: 1.4)  
+- Thesis: Development and testing of a Neural Network-based Controller for Induction Motors 
 
 **Erasmus Exchange – University of Latvia, Riga, Latvia**  
 - Focus: Advanced ML, Image Processing, Blockchain  
 
 **B.Eng. Mechatronics Engineering – NUST, Islamabad, Pakistan | 2018 – 2022**  
-- GPA: 3.7 / 4.0  
-
+- Thesis: Design and development of an indigenous Semi-automated Olive Pitting Machine.
 ---
 
 ### 💻 Projects
