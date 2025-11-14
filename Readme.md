@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Manahil Shhaid
+# 👋 Hi, I'm Manahil :)
 
 ### 🌟 AI/ML Engineer | LLM & Computer Vision Specialist | Research & Product Innovation
 
@@ -96,10 +96,8 @@ Technische Hochschule Deggendorf, Germany | 2023 – 2025
 
 ### 📫 Connect with Me
 
-- LinkedIn: [linkedin.com/in/manahilshhaid](https://www.linkedin.com/in/manahilshhaid)  
-- Email: manahil@example.com  
-- Twitter: [@manahil](https://twitter.com/manahil)  
+- LinkedIn: https://www.linkedin.com/in/manahil-shahid-39082a218/
+- Email: manahilshahid13@gmail.com  
 
----
 
 
